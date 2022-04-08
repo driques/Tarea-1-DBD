@@ -1,2 +1,6 @@
 Este es una oración de driques.
+<<<<<<< HEAD
 Esto definitivamente no lo escribi yo.
+=======
+Hola! Esta es la oración de Ian Rickmers Blamey
+>>>>>>> aa3943342b39d68e09bfa6894be54ff98267dae4
